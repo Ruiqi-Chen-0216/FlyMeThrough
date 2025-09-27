@@ -30,7 +30,7 @@ This repo accompanies our UIST 2025 paper:
 > *Xia Su, Ruiqi Chen, Jingwei Ma, Chu Li, Jon E. Froehlich*
 > In *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25)*
 > Busan, Republic of Korea, September 28–October 1, 2025.
-> DOI: [10.1145/XXXXX](https://doi.org/10.1145/XXXXXX)
+> DOI: [10.1145/3746059.3747777](https://doi.org/10.1145/3746059.3747777)
 
 ![FlyMeThrough pipeline](assets/FlyMeThrough.png)
 ---
@@ -213,7 +213,7 @@ If you use FlyMeThrough or the structure in your research, please use the follow
   title        = {FlyMeThrough: Human-AI Collaborative 3D Indoor Mapping with Commodity Drones},
   booktitle    = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25)},
   year         = {2025},
-  doi          = {10.1145/XXXXX},
+  doi          = {10.1145/3746059.3747777},
   publisher    = {ACM},
   location     = {Busan, Republic of Korea}
 }
